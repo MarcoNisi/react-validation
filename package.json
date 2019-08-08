@@ -28,7 +28,8 @@
   "homepage": "https://github.com/Lesha-spr/react-validation",
   "peerDependencies": {
     "react": "*",
-    "classnames": "*"
+    "classnames": "*",
+    "prop-types": "*"
   },
   "devDependencies": {
     "babel-core": "^6.17.0",
